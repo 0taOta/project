@@ -16,7 +16,11 @@ public class App {
 
     StudentImpl student = StudentImpl.getInstance();
 
-    student.deserialize();
+        System.out.println("Commit 2 is added successfully ");
+        System.out.println("Commit 2 is added successfully ");
+        System.out.println("Commit 2 is added successfully ");
+        System.out.println("Commit 2 is added successfully ");
+        System.out.println("Commit 2 is added successfully ");
 
     }
 
